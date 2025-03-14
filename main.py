@@ -76,6 +76,8 @@ if __name__ == "__main__":
             
                 print(bmp.temperature)
                 print(bmp.pressure)
+                
+                readbmp= 0
 
                 #True while measuring
                 #bmp.is_measuring
